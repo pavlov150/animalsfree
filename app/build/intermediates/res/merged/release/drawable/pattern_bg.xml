@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<bitmap 
+    android:src="@drawable/pattern_for_bg" 
+    android:tileMode="repeat" 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+</bitmap>
+<!-- From: file:/D:/Development/Projects/AnimalsFree/app/src/main/res/drawable/pattern_bg.xml -->

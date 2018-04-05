@@ -1,0 +1,458 @@
+[
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bee.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\bee.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cobra.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\cobra.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cat.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\cat.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_flamingo.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\flamingo.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_for_bg.png.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable\\pattern_for_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_donkey.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\donkey.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fox.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\fox.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cuckoo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\cuckoo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_donkey.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\donkey.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bear1.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\bear1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dog.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\dog.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cock.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\cock.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\cow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_crane.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\crane.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cuckoo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\cuckoo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_dolphin.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\dolphin.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_crane.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\crane.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\menu_anmals.xml.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\menu\\anmals.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_elephant.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\elephant.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_bear.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\bear.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dolphin.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\dolphin.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dove.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\dove.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_crocodile.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\crocodile.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cat.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\cat.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cock.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\cock.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\cow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fox.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\fox.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dove.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\dove.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cuckoo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\cuckoo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_chicken.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\chicken.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_fly.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\fly.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_flamingo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\flamingo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_crane.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\crane.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_cobra.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\cobra.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_flamingo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\flamingo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_chicken.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\chicken.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_crocodile.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\crocodile.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_donkey.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\donkey.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dolphin.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\dolphin.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_bg.xml.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable\\pattern_bg.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_eagle.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\eagle.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_fly.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\fly.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_duck.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\duck.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fox.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\fox.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_elephant.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\elephant.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dove.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\dove.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_cock.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\cock.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eagle.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\eagle.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_eagle.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\eagle.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_crow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\crow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bee.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\bee.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bear.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\bear.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bear.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\bear.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_elephant.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\elephant.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dog.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\dog.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_crane.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\crane.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fly.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\fly.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eagle.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\eagle.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cock.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\cock.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_duck.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\duck.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_flamingo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\flamingo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_crane.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\crane.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cock.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\cock.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_cow.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\cow.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_donkey.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\donkey.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bear.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\bear.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_fly.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\fly.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_crow.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\crow.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bee.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\bee.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_crocodile.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\crocodile.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dolphin.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\dolphin.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_cat.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\cat.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_dove.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\dove.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eagle.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\eagle.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_elephant.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\elephant.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dolphin.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\dolphin.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dove.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\dove.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_crow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\crow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_crocodile.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\crocodile.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_elephant.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\elephant.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_crow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\crow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_crocodile.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\crocodile.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cuckoo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\cuckoo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dog.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\dog.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bear.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\bear.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_duck.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\duck.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cobra.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\cobra.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\layout_anmals.xml.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\layout\\anmals.xml"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\cow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_cat.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\cat.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dog.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\dog.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_cobra.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\cobra.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_chicken.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\chicken.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_dog.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\dog.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_bee.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\bee.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\cow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_duck.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\duck.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fox.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\fox.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_donkey.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\donkey.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_duck.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\duck.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cobra.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\cobra.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_chicken.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\chicken.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_fox.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\fox.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chicken.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\chicken.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_flamingo.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\flamingo.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_crow.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\crow.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cat.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\cat.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_fly.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-xhdpi\\fly.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\raw_cuckoo.mp3.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\raw\\cuckoo.mp3"
+    },
+    {
+        "merged": "D:\\Projects\\Android\\AnimalsFree\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bee.jpg.flat",
+        "source": "D:\\Projects\\Android\\AnimalsFree\\app\\src\\main\\res\\drawable-hdpi\\bee.jpg"
+    }
+]

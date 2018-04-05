@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Звуки животных Free</string>
+    <string name="birds">Птицы</string>
+    <string name="hello_world">Звуки животных Free</string>
+    <string name="mlekop">Млекопитающие</string>
+    <string name="nasekomie">Насекомые</string>
+    <string name="presmik">Пресмыкающиеся</string>
+</resources>

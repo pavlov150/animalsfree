@@ -1,0 +1,485 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/pattern_bg"
+    >
+
+
+    <LinearLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#15087b"
+            android:text="@string/mlekop"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/bear"
+                android:src="@drawable/bear"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:scaleType="fitCenter"
+                android:padding="1dp"
+                android:background="@null" />
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/cat"
+                android:src="@drawable/cat"
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@null"
+                android:scaleType="fitCenter"
+                android:padding="1dp" />
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/cow"
+                android:src="@drawable/cow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:padding="1dp"
+                android:background="@null" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/dog"
+                android:src="@drawable/dog"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/dolphin"
+                android:src="@drawable/dolphin"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/donkey"
+                android:src="@drawable/donkey"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/elephant"
+                android:src="@drawable/elephant"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/fox"
+                android:src="@drawable/fox"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#15087b"
+            android:text="@string/birds"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/chicken"
+                android:src="@drawable/chicken"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/cock"
+                android:src="@drawable/cock"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/crane"
+                android:src="@drawable/crane"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/crow"
+                android:src="@drawable/crow"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/cuckoo"
+                android:src="@drawable/cuckoo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/dove"
+                android:src="@drawable/dove"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/duck"
+                android:src="@drawable/duck"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/eagle"
+                android:src="@drawable/eagle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/flamingo"
+                android:src="@drawable/flamingo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#15087b"
+            android:text="@string/nasekomie"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/bee"
+                android:src="@drawable/bee"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/fly"
+                android:src="@drawable/fly"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="10dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#15087b"
+            android:text="@string/presmik"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/cobra"
+                android:src="@drawable/cobra"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+                android:id="@+id/crocodile"
+                android:src="@drawable/crocodile"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+            <View
+                android:layout_width="10dp"
+                android:layout_height="match_parent"
+                />
+
+            <ImageButton
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+
+                android:scaleType="fitCenter"
+                android:background="@null"
+                android:padding="1dp"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView><!-- From: file:/D:/Development/Projects/AnimalsFree/app/src/main/res/layout/anmals.xml -->
